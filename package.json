@@ -1,0 +1,8 @@
+{
+  "name": "toastr-font-awesome",
+  "description": "Usage of Font Awesome font in toastr",
+  "version": "1.0.0",
+  "main": "src/toastr-font-awesome.less",
+  "license": "MIT",
+  "author": "Klaus Pogontke"
+}

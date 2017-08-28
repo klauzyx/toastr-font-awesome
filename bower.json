@@ -1,0 +1,26 @@
+{
+  "name": "toastr-font-awesome",
+  "description": "Usage of Font Awesome font in toastr",
+  "main": "src/toastr-font-awesome.less",
+  "license": "MIT",
+  "ignore": [
+    ".gitignore",
+    "compilerconfig.json",
+    "compilerconfig.json.defaults",
+    "package.json",
+    "toastr-font-awesome.njsproj",
+    "toastr-font-awesome.sln"
+  ],
+  "keywords": [
+    "toastr",
+    "font",
+    "awesome"
+  ],
+  "authors": [
+    "Klaus Pogontke"
+  ],
+  "dependencies": {
+    "toastr": "2.1.3",
+    "font-awesome": "4.7.0"
+  }
+}
